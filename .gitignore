@@ -3,6 +3,7 @@ lib_managed/
 project/boot/
 project/build/target/
 project/plugins/project/build.properties
+project/plugins/project/
 src_managed/
 target/
 *.eml
@@ -10,3 +11,8 @@ target/
 *.ipr
 *.iws
 .*.sw?
+
+*.class
+*.log
+dist/*
+\#*\#

@@ -1,6 +1,6 @@
 organization := "com.example"
 
-name := "scalatra-sbt-prototype"
+name := "GiltNotify"
 
 version := "0.1.0-SNAPSHOT"
 
